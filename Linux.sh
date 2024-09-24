@@ -53,7 +53,7 @@ show_menu() {
 --------------------[秀米工具网]---------------------
 
 ${CYAN} 免费工具大全
-官网：https://tool.xiumi.net.net${RESET}       
+官网：https://tool.xiumi.net${RESET}       
 
 ===================================================
 $greeting
